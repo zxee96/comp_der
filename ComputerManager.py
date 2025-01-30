@@ -41,3 +41,11 @@ class ComputerManager:
 
     def list_computers(self):
         return self.computers
+
+    def upd_comp(self,computer,new_comp):
+
+                computer.type=new_comp.type
+                computer.mac=new_comp.mac
+                computer.os=new_comp.os
+                computer.start_date=new_comp.start_date
+                computer.end_date=new_comp.end_date

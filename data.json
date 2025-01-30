@@ -1,26 +1,10 @@
 [
     {
-        "devays_type": "1",
-        "id_key": "1",
-        "mac_key": "22",
-        "system_key": "33",
-        "start_key": "44",
-        "end_key": null
-    },
-    {
-        "devays_type": "11",
-        "id_key": "22",
-        "mac_key": "33",
-        "system_key": "44",
-        "start_key": "55",
-        "end_key": null
-    },
-    {
-        "devays_type": "123",
-        "id_key": "321",
-        "mac_key": "123",
-        "system_key": "321",
-        "start_key": "123",
-        "end_key": null
+        "type": "1",
+        "id": "1234",
+        "mac": "00:00:00:00:00:00",
+        "os": "123",
+        "start_date": "2025-01-30",
+        "end_date": null
     }
 ]
